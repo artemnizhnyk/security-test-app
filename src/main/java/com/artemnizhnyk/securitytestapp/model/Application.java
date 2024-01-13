@@ -7,7 +7,7 @@ import lombok.*;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class ApplicationEntity {
+public class Application {
     private int id;
     private String name;
     private String author;
